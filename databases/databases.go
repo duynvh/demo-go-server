@@ -1,7 +1,7 @@
 package databases
 
 import (
-	"go-server-demo/models"
+	"demo-go-server/models"
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/mysql"
 	"os"

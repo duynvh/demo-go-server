@@ -3,8 +3,8 @@ package controllers
 import (
 	"github.com/gin-gonic/gin"
 	"github.com/jinzhu/gorm"
-	"go-server-demo/lib/common"
-	"go-server-demo/models"
+	"demo-go-server/lib/common"
+	"demo-go-server/models"
 	"net/http"
 	"os"
 	"strconv"

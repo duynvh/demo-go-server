@@ -2,7 +2,7 @@ package models
 
 import (
 	"github.com/jinzhu/gorm"
-	"go-server-demo/lib/common"
+	"demo-go-server/lib/common"
 )
 
 type Todo struct {

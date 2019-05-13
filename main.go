@@ -2,11 +2,11 @@ package main
 
 import (
 	"fmt"
-	"github.com/joho/godotenv"
-	"go-server-demo/controllers"
 	"github.com/gin-gonic/gin"
-	"go-server-demo/databases"
-	"go-server-demo/lib/middlewares"
+	"github.com/joho/godotenv"
+	"demo-go-server/controllers"
+	"demo-go-server/databases"
+	"demo-go-server/lib/middlewares"
 )
 
 //CORSMiddleware ...
